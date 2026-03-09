@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://amanuelttesfaye.github.io/sitemap.xml
+Sitemap: https://amanueltt.github.io/sitemap.xml
